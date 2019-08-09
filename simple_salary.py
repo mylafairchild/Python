@@ -1,4 +1,4 @@
-#Salary calculator based on codeacademy's tip calculator. 2.7% state, 33% fed taxes.
+#Salary calculator. 2.7% state, 33% fed taxes. This is old Python2 booooooooo
 
 salary = 55.00
 st_tax = 0.027
